@@ -1,0 +1,262 @@
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\appsettings.json
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.exe
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.deps.json
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.runtimeconfig.json
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.runtimeconfig.dev.json
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\ref\MovieShop.API.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.pdb
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.csprojAssemblyReference.cache
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.AssemblyInfoInputs.cache
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.AssemblyInfo.cs
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.csproj.CoreCompileInputs.cache
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\staticwebassets\MovieShop.API.StaticWebAssets.Manifest.cache
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\staticwebassets\MovieShop.API.StaticWebAssets.xml
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\scopedcss\bundle\MovieShop.API.styles.css
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.RazorTargetAssemblyInfo.cache
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.csproj.CopyComplete
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\ref\MovieShop.API.dll
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.pdb
+C:\Users\Abhil\OneDrive\Developer\New Training Program\src\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.genruntimeconfig.cache
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\appsettings.json
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.exe
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.deps.json
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.runtimeconfig.json
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.runtimeconfig.dev.json
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\ref\MovieShop.API.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.pdb
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Humanizer.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Source\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.csprojAssemblyReference.cache
+C:\Source\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.AssemblyInfoInputs.cache
+C:\Source\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.AssemblyInfo.cs
+C:\Source\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.csproj.CoreCompileInputs.cache
+C:\Source\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Source\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Source\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\staticwebassets\MovieShop.API.StaticWebAssets.Manifest.cache
+C:\Source\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\staticwebassets\MovieShop.API.StaticWebAssets.xml
+C:\Source\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\scopedcss\bundle\MovieShop.API.styles.css
+C:\Source\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.RazorTargetAssemblyInfo.cache
+C:\Source\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.csproj.CopyComplete
+C:\Source\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.dll
+C:\Source\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\ref\MovieShop.API.dll
+C:\Source\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.pdb
+C:\Source\March2021\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.genruntimeconfig.cache
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\ApplicationCore.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Infrastructure.dll
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\ApplicationCore.pdb
+C:\Source\March2021\MovieShop\MovieShop.API\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\appsettings.json
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.exe
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.deps.json
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.runtimeconfig.json
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.runtimeconfig.dev.json
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\ref\MovieShop.API.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.pdb
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\ApplicationCore.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\ApplicationCore.pdb
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.csprojAssemblyReference.cache
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.AssemblyInfoInputs.cache
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.AssemblyInfo.cs
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.csproj.CoreCompileInputs.cache
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\obj\Debug\net5.0\staticwebassets\MovieShop.API.StaticWebAssets.Manifest.cache
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\obj\Debug\net5.0\staticwebassets\MovieShop.API.StaticWebAssets.xml
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\obj\Debug\net5.0\scopedcss\bundle\MovieShop.API.styles.css
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.RazorTargetAssemblyInfo.cache
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.csproj.CopyComplete
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\obj\Debug\net5.0\ref\MovieShop.API.dll
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.pdb
+C:\Users\andrew\Downloads\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.genruntimeconfig.cache
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.csprojAssemblyReference.cache
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.AssemblyInfoInputs.cache
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.AssemblyInfo.cs
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.csproj.CoreCompileInputs.cache
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\obj\Debug\net5.0\ref\MovieShop.API.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.pdb
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\appsettings.json
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.exe
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.deps.json
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.runtimeconfig.json
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.runtimeconfig.dev.json
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\ref\MovieShop.API.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\MovieShop.API.pdb
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\ApplicationCore.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\ApplicationCore.pdb
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\obj\Debug\net5.0\staticwebassets\MovieShop.API.StaticWebAssets.Manifest.cache
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\obj\Debug\net5.0\staticwebassets\MovieShop.API.StaticWebAssets.xml
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\obj\Debug\net5.0\scopedcss\bundle\MovieShop.API.styles.css
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.RazorTargetAssemblyInfo.cache
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.csproj.CopyComplete
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.API\obj\Debug\net5.0\MovieShop.API.genruntimeconfig.cache

@@ -445,6 +445,7 @@ C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.MVC\bin\Debug\net5.0\Appl
 C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.MVC\bin\Debug\net5.0\Infrastructure.dll
 C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.MVC\bin\Debug\net5.0\ApplicationCore.pdb
 C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.MVC\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.MVC\obj\Debug\net5.0\MovieShop.MVC.csprojAssemblyReference.cache
 C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.MVC\obj\Debug\net5.0\MovieShop.MVC.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.MVC\obj\Debug\net5.0\MovieShop.MVC.AssemblyInfoInputs.cache
 C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.MVC\obj\Debug\net5.0\MovieShop.MVC.AssemblyInfo.cs
@@ -483,4 +484,3 @@ C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.MVC\obj\Debug\net5.0\Movi
 C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.MVC\obj\Debug\net5.0\ref\MovieShop.MVC.dll
 C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.MVC\obj\Debug\net5.0\MovieShop.MVC.pdb
 C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.MVC\obj\Debug\net5.0\MovieShop.MVC.genruntimeconfig.cache
-C:\Users\andrew\source\repos\antra\MovieShop\MovieShop.MVC\obj\Debug\net5.0\MovieShop.MVC.csproj.AssemblyReference.cache

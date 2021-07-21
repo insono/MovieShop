@@ -41,7 +41,7 @@ namespace MovieShop.MVC
             services.AddScoped<IMovieService, MovieService>();
             services.AddScoped<IMovieRepository, MovieRepository>();
             services.AddScoped<IGenreService, GenreService>();
-            // services.AddScoped<ICrewService, CrewService>();
+            services.AddScoped<ICrewService, CrewService>();
             services.AddScoped<IAsyncRepository<Genre>, EfRepository<Genre>>();
             services.AddScoped<IUserService, UserService>();
             services.AddScoped<IUserRepository, UserRepository>();

@@ -43,6 +43,7 @@ C:\Users\andrew\Downloads\MovieShop\ApplicationCore\obj\Debug\net5.0\Application
 C:\Users\andrew\Downloads\MovieShop\ApplicationCore\obj\Debug\net5.0\ref\ApplicationCore.dll
 C:\Users\andrew\Downloads\MovieShop\ApplicationCore\obj\Debug\net5.0\ApplicationCore.pdb
 C:\Users\andrew\Downloads\MovieShop\ApplicationCore\obj\Debug\net5.0\ApplicationCore.genruntimeconfig.cache
+C:\Users\andrew\source\repos\antra\MovieShop\ApplicationCore\obj\Debug\net5.0\ApplicationCore.csprojAssemblyReference.cache
 C:\Users\andrew\source\repos\antra\MovieShop\ApplicationCore\obj\Debug\net5.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\andrew\source\repos\antra\MovieShop\ApplicationCore\obj\Debug\net5.0\ApplicationCore.AssemblyInfoInputs.cache
 C:\Users\andrew\source\repos\antra\MovieShop\ApplicationCore\obj\Debug\net5.0\ApplicationCore.AssemblyInfo.cs
@@ -57,4 +58,3 @@ C:\Users\andrew\source\repos\antra\MovieShop\ApplicationCore\bin\Debug\net5.0\Ap
 C:\Users\andrew\source\repos\antra\MovieShop\ApplicationCore\bin\Debug\net5.0\ref\ApplicationCore.dll
 C:\Users\andrew\source\repos\antra\MovieShop\ApplicationCore\bin\Debug\net5.0\ApplicationCore.pdb
 C:\Users\andrew\source\repos\antra\MovieShop\ApplicationCore\obj\Debug\net5.0\ApplicationCore.genruntimeconfig.cache
-C:\Users\andrew\source\repos\antra\MovieShop\ApplicationCore\obj\Debug\net5.0\ApplicationCore.csproj.AssemblyReference.cache

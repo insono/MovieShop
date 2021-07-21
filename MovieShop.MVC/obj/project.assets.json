@@ -7218,11 +7218,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andrew\\source\\repos\\June\\MovieShop\\MovieShop.MVC\\MovieShop.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\andrew\\source\\repos\\antra\\MovieShop\\MovieShop.MVC\\MovieShop.MVC.csproj",
       "projectName": "MovieShop.MVC",
-      "projectPath": "C:\\Users\\andrew\\source\\repos\\June\\MovieShop\\MovieShop.MVC\\MovieShop.MVC.csproj",
+      "projectPath": "C:\\Users\\andrew\\source\\repos\\antra\\MovieShop\\MovieShop.MVC\\MovieShop.MVC.csproj",
       "packagesPath": "C:\\Users\\andrew\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andrew\\source\\repos\\June\\MovieShop\\MovieShop.MVC\\obj\\",
+      "outputPath": "C:\\Users\\andrew\\source\\repos\\antra\\MovieShop\\MovieShop.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7239,11 +7239,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\andrew\\source\\repos\\June\\MovieShop\\ApplicationCore\\ApplicationCore.csproj": {
-              "projectPath": "C:\\Users\\andrew\\source\\repos\\June\\MovieShop\\ApplicationCore\\ApplicationCore.csproj"
+            "C:\\Users\\andrew\\source\\repos\\antra\\MovieShop\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\andrew\\source\\repos\\antra\\MovieShop\\ApplicationCore\\ApplicationCore.csproj"
             },
-            "C:\\Users\\andrew\\source\\repos\\June\\MovieShop\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\andrew\\source\\repos\\June\\MovieShop\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\andrew\\source\\repos\\antra\\MovieShop\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\andrew\\source\\repos\\antra\\MovieShop\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -7305,7 +7305,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
